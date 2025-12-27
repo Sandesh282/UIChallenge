@@ -85,8 +85,8 @@ Fork this repository to your own GitHub account.
 ### 2. Clone Your Fork
 
 ```bash
-git clone https://github.com/<your-username>/Axios-App-Android.git
-cd Axios-App-Android
+git clone https://github.com/<your-username>/UIChallenge.git
+cd Android
 ```
 
 ---
